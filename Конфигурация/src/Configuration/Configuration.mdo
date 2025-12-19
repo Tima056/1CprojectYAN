@@ -38,4 +38,5 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <constants>Constant.DemoConfDT</constants>
 </mdclass:Configuration>
